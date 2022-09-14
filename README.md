@@ -1,11 +1,12 @@
 # Progetto JavaScript di Simone Salvalaggio
-
-![counter](https://user-images.githubusercontent.com/97759504/190250146-4a7cad67-9e51-40db-a197-47ae9ff14feb.png)
+## Presentazione 
 
 Il progetto consiste nel:
 - Creare un contatore tramite JavaScript.
 - Il contatore deve contenere il pulsante +, -, reset e il display del conteggio.
 - Tutti i pulsanti devono essere creati utilizzando interamente JavaScript.
+
+![counter](https://user-images.githubusercontent.com/97759504/190250146-4a7cad67-9e51-40db-a197-47ae9ff14feb.png)
 
 E' possibile aggiungere funzionalita' a piacere. Io ho deciso di implementare la funzione "salvataggio del counter" e dello "svuota salvataggi"
 La funzione "salvataggio" permette di salvare fino a 3 conteggi. Arrivati al limite, uscira' un messaggio che avvertira' del limite raggiunto e la 
