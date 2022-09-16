@@ -1,4 +1,4 @@
-# Progetto JavaScript di Simone Salvalaggio
+# Progetto JavaScript Basics di Simone Salvalaggio
 ## Presentazione 
 
 Il progetto consiste nel:
