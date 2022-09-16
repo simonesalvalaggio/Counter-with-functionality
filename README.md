@@ -25,4 +25,4 @@ disabilitazione immediata del tasto "save". E' possibile svuotare i salvataggi e
 ## Link utili
 Link all'app: https://ss-counter-js.netlify.app
 
-Link alla repository: https://github.com/simonesalvalaggio/Progetto-JavaScript-di-Simone-Salvalaggio
+Link alla repository: https://github.com/simonesalvalaggio/Progetto-JavaScript-Basics-di-Simone-Salvalaggio
