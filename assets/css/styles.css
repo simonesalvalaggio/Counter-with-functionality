@@ -11,6 +11,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  user-select: none;
 }
 h2{
   grid-column-start: 1;
